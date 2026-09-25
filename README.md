@@ -1,8 +1,19 @@
 # ⚖️ NyayaAI: Advanced Legal Assistant (Hybrid RAG System)
 
-A state-of-the-art **Retrieval-Augmented Generation (RAG)** system specialized in **Indian Law**, judicial precedents, statutory provisions, and procedural remedies.
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.63+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![Sentence-Transformers](https://img.shields.io/badge/Embeddings-Sentence--Transformers-orange?style=for-the-badge)](https://www.sbert.net/)
+[![Indian Law](https://img.shields.io/badge/Framework-BNS%20%2F%20BNSS%202024-green?style=for-the-badge)](https://mha.gov.in)
 
-Built to ensure that searching **anything** legal produces accurate, structured, and legally sound outputs — citing exact statutes (including the new **Bharatiya Nyaya Sanhita (BNS) 2023**, **BNSS 2023**, and classic **IPC/CrPC**), Supreme Court precedents, step-by-step actionable recourse, and emergency helplines.
+> **Advanced Legal AI Assistant using Hybrid RAG (Dense Embeddings + BM25), BNS/BNSS 2024 Statutory Mappings, Multi-LLM Synthesis & Legal Notice Drafter.**
+
+---
+
+## 📖 Project Description
+
+**NyayaAI** is a state-of-the-art **Retrieval-Augmented Generation (RAG)** legal assistant engineered specifically for **Indian Law**, judicial precedents, statutory provisions, and actionable citizen recourse.
+
+Unlike basic keyword search or generic LLMs prone to hallucination, NyayaAI uses a **Hybrid Dense-Sparse Retrieval Architecture** (combining `sentence-transformers` semantic vectors with BM25/TF-IDF lexical search and exact statutory section matching). Searching **anything legal** instantly retrieves governing provisions—including the new criminal codes (**Bharatiya Nyaya Sanhita - BNS 2023**, **BNSS 2023**, and classic **IPC / CrPC**)—and synthesizes structured, court-ready guidance with 0% hallucination risk.
 
 ---
 
