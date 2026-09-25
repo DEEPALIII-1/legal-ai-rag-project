@@ -1,5 +1,29 @@
-Case: XYZ vs State - Fraud case where accused cheated online buyers and was punished under IPC 420.
+Case: Hridaya Ranjan Prasad Verma v. State of Bihar (2000) 4 SCC 168 - Supreme Court held that the distinction between mere breach of contract and cheating depends upon fraudulent intention at the inception of the transaction. If intention was dishonest from the beginning, it is cheating under IPC 420 / BNS 318.
 
-Case: ABC vs Union of India - Consumer got refund due to defective product under Consumer Protection Act.
+Case: Dashrath Rupsingh Rathod v. State of Maharashtra (2014) 9 SCC 129 - Clarified territorial jurisdiction in Section 138 cheque bounce cases, establishing that complaints must be filed where the payee's bank account branch is situated.
 
-Case: PQR vs Bank - Court ordered bank to refund money in cyber fraud case.
+Case: Lalita Kumari v. Govt. of U.P. (2014) 2 SCC 1 - Constitution Bench of Supreme Court ruled that registration of FIR under Section 154 CrPC is mandatory if the information discloses commission of a cognizable offence; no preliminary inquiry is permissible in such cases.
+
+Case: D.K. Basu v. State of West Bengal (1997) 1 SCC 416 - Supreme Court laid down mandatory 11-point guidelines to prevent custodial violence and safeguard citizens during arrest and detention, including the right to inform family and regular medical examination.
+
+Case: Arnesh Kumar v. State of Bihar (2014) 8 SCC 273 - Ruled that in offences punishable with imprisonment up to 7 years (such as Section 498A IPC), police shall not automatically arrest the accused without satisfying conditions under Section 41 CrPC and issuing a Section 41A Notice of Appearance.
+
+Case: K.S. Puttaswamy v. Union of India (2017) 10 SCC 1 - Nine-judge Constitution Bench declared the Right to Privacy as an intrinsic part of the Right to Life and Personal Liberty under Article 21 of the Indian Constitution, applying to digital communications and personal data.
+
+Case: Satish Chander Ahuja v. Sneha Ahuja (2020) 10 SCC 788 - Supreme Court held that a woman has the legal right to reside in a shared household under the Domestic Violence Act (PWDVA) even if the property is owned exclusively by the in-laws and not the husband.
+
+Case: Rajnesh v. Neha (2021) 2 SCC 324 - Supreme Court framed uniform pan-India guidelines for maintenance, ordering mandatory submission of comprehensive Affidavits of Assets and Liabilities by both spouses to ensure fair, prompt maintenance adjudication.
+
+Case: Sarla Verma v. Delhi Transport Corporation (2009) 6 SCC 121 & Pranay Sethi (2017) - Standardized the multiplier method and calculations for loss of dependency and future prospects in Motor Accident Claims Tribunal (MACT) cases.
+
+Case: State of Rajasthan v. Balchand (1977) 4 SCC 308 - Justice V.R. Krishna Iyer laid down the foundational bail jurisprudence principle: 'Bail is the rule, jail is the exception.'
+
+Case: Sushila Aggarwal v. State (NCT of Delhi) (2020) 5 SCC 1 - Constitution Bench ruled that Anticipatory Bail under Section 438 CrPC / BNSS 482 should not be restricted to a predetermined duration and normally continues until the conclusion of the trial.
+
+Case: Shreya Singhal v. Union of India (2015) 5 SCC 1 - Supreme Court struck down Section 66A of the IT Act for being unconstitutionally vague, protecting online freedom of expression while upholding intermediary guidelines for removing unlawful content upon court/government order.
+
+Case: Lucknow Development Authority v. M.K. Gupta (1994) 1 SCC 243 - Supreme Court affirmed that public statutory bodies and housing authorities are subject to the Consumer Protection Act for deficiency of service, delays, and defective construction.
+
+Case: Aurelieano Fernandes v. State of Goa (2023) - Supreme Court issued stringent nationwide directions to all private and government institutions to strictly constitute and operate Internal Complaints Committees under the POSH Act 2013.
+
+Case: Vineeta Sharma v. Rakesh Sharma (2020) 9 SCC 1 - Supreme Court ruled that daughters have equal coparcenary birthrights in Hindu ancestral joint family property with retroactive effect, irrespective of whether the father was alive on the date of the 2005 amendment.

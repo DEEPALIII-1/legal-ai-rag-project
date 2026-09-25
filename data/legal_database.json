@@ -1,0 +1,567 @@
+[
+  {
+    "id": "CRIM-BNS-318-IPC-420",
+    "title": "Cheating, Financial Scams & Fraudulent Inducement",
+    "category": "Criminal Law & Financial Fraud",
+    "act": "Bharatiya Nyaya Sanhita (BNS) 2023 / Indian Penal Code (IPC) 1860",
+    "sections": "BNS Section 318(4) [Corresponding to IPC Section 420], BNS Section 316 [IPC Section 406]",
+    "summary": "Covers cheating, dishonesty, financial scams, fraudulent inducement of property delivery, and criminal breach of trust. Occurs when a person deceives someone, fraudulently or dishonestly induces them to deliver property or money, or deliberately causes wrongful gain or loss.",
+    "key_elements": [
+      "Deception of any person fraudulently or dishonestly",
+      "Inducing the person deceived to deliver property or make/alter/destroy valuable security",
+      "Dishonest intention from the inception of the transaction"
+    ],
+    "penalties_remedies": "Imprisonment up to 7 years and fine. Cognizable offence (police can arrest without warrant), Non-Bailable, Triable by Magistrate of First Class.",
+    "landmark_cases": [
+      "Hridaya Ranjan Prasad Verma v. State of Bihar (2000) 4 SCC 168: Distinction between mere breach of contract and cheating depends on fraudulent intention at the inception.",
+      "Prof. R.K. Vijayasarathy v. Sudha Seetharam (2019) 16 SCC 739: Requisite dishonest intention must be evident from the beginning of the transaction.",
+      "State of Maharashtra v. Mohd. Sajid (2021): Multi-level marketing scams and online investment frauds fall squarely under cheating and criminal conspiracy."
+    ],
+    "practical_steps": [
+      "Preserve all transaction receipts, bank statements, UPI transaction IDs, screenshots of chats, and caller details.",
+      "If cyber/online fraud: Call Cyber Helpline 1930 immediately within the 'Golden Hour' to freeze funds in the fraudulent account.",
+      "Register an online cyber complaint at https://cybercrime.gov.in and obtain an acknowledgement number.",
+      "Submit a written complaint to the Branch Manager of your bank requesting a dispute chargeback and account lien.",
+      "File a formal written complaint for FIR under BNS 318(4) / IPC 420 at the nearest police station or cyber crime police station.",
+      "If the police refuse to register the FIR, file a complaint to the Superintendent of Police under CrPC 154(3) / BNSS 173(4), or file an application before the Judicial Magistrate under CrPC 156(3) / BNSS 175(3)."
+    ],
+    "relevant_authorities": "Local Police Station / Cyber Crime Police Station, National Cybercrime Reporting Portal (cybercrime.gov.in), Helpline 1930, Judicial Magistrate Court.",
+    "risk_level": "High",
+    "keywords": [
+      "cheating", "fraud", "scam", "ipc 420", "bns 318", "money stolen", "deceived", "fake investment", "phishing", "online scam", "conned", "criminal breach of trust", "406", "loot", "dhoka"
+    ]
+  },
+  {
+    "id": "CYBER-IT-66D-UPI-FRAUD",
+    "title": "Cyber Fraud, Personation & Online Banking Theft",
+    "category": "Cyber Law & Digital Crimes",
+    "act": "Information Technology Act 2000 (Amended 2008) & BNS/IPC",
+    "sections": "IT Act Section 66D (Cheating by personation using computer resource), Section 66C (Identity theft), Section 43 (Damage to computer systems)",
+    "summary": "Applies to fraudulent transactions using digital devices, fake call centers, OTP compromise, phishing links, counterfeit bank websites, QR code scams, impersonation of bank officials or customs officers, and unauthorized digital fund transfers.",
+    "key_elements": [
+      "Use of computer resource, mobile phone, or communication device to deceive or cheat",
+      "Impersonating another person, bank, official, or government entity",
+      "Unauthorized debit or transfer of money through digital mechanisms (UPI, Netbanking, Cards)"
+    ],
+    "penalties_remedies": "Imprisonment up to 3 years and fine up to ₹1,00,000 under IT Act 66D, invoked alongside BNS 318(4) (up to 7 years). Cognizable, Bailable under IT Act, but non-bailable when combined with BNS 318(4).",
+    "landmark_cases": [
+      "State of Tamil Nadu v. Suhas Katti (2004): Historic cyber crime conviction affirming admissibility of electronic evidence and quick adjudication.",
+      "Shreya Singhal v. Union of India (2015) 5 SCC 1: Supreme Court settled intermediary liabilities and guidelines for online criminal speech.",
+      "Punjab National Bank v. Reserve Bank of India (2020): Customer liability in zero-liability unauthorized electronic banking transactions if reported within 3 working days (RBI Circular 2017)."
+    ],
+    "practical_steps": [
+      "IMMEDIATE ACTION (First 2 hours): Call 1930 (Citizen Financial Cyber Fraud Reporting System) to trigger the freeze on the beneficiary's bank account or wallet.",
+      "Block your ATM card, UPI profile, NetBanking, and SIM card if SIM swap suspected.",
+      "File complaint on https://cybercrime.gov.in under 'Report Financial Fraud'.",
+      "Submit written complaint to your home bank branch within 3 days to claim zero liability protection under RBI Circular DBR.No.Leg.BC.78/09.07.005/2017-18.",
+      "Save transaction SMS, UPI Reference Numbers, bank statement with debit highlights, and suspected mobile numbers.",
+      "Follow up with the State Cyber Cell and IO (Investigating Officer) for obtaining court refund order under BNSS 497 / CrPC 451/457 (property return)."
+    ],
+    "relevant_authorities": "National Cybercrime Helpline 1930, cybercrime.gov.in, RBI Ombudsman, Cyber Cell Police Station, Banking Ombudsman.",
+    "risk_level": "High",
+    "keywords": [
+      "cyber crime", "cyber fraud", "upi fraud", "otp scam", "google pay fraud", "phonepe scam", "paytm scam", "bank account hacked", "phishing", "it act 66d", "1930 helpline", "cybercrime.gov.in", "qr code scam", "sim swap"
+    ]
+  },
+  {
+    "id": "FIN-NI-138-CHEQUE-BOUNCE",
+    "title": "Dishonour of Cheque / Cheque Bounce Procedure & Legal Notice",
+    "category": "Financial & Commercial Law",
+    "act": "Negotiable Instruments Act 1881",
+    "sections": "Section 138 (Dishonour of cheque for insufficiency of funds), Section 141 (Offences by companies), Section 142 (Cognizance of offences), Section 143A (Interim compensation up to 20%)",
+    "summary": "Regulates dishonour of cheques issued towards discharge of a legally enforceable debt or liability. Provides a strict statutory criminal recourse with defined limitation periods.",
+    "key_elements": [
+      "Cheque presented to the bank within validity period (3 months from issuance)",
+      "Cheque returned unpaid by the bank due to insufficient funds or exceeding arrangement",
+      "Cheque issued towards discharge of legally enforceable debt or liability (not a gift or unaccounted loan)",
+      "Strict compliance with statutory demand notice timelines"
+    ],
+    "penalties_remedies": "Imprisonment up to 2 years, or fine which may extend to twice the amount of the cheque, or both. Court can also order interim compensation up to 20% under Section 143A.",
+    "landmark_cases": [
+      "Dashrath Rupsingh Rathod v. State of Maharashtra (2014) 9 SCC 129 & 2015 Amendment: Jurisdiction lies where the drawee bank branch of payee is located.",
+      "P. Mohanraj v. Shah Brothers Ispat Pvt Ltd (2021) 6 SCC 258: Section 138 proceedings are quasi-criminal and barred during IBC corporate moratorium.",
+      "Bir Singh v. Mukesh Kumar (2019) 4 SCC 197: Presumption under Section 139 in favour of the holder of the cheque applies once signature is admitted.",
+      "K.S. Joseph v. Philips Carbon Black Ltd (2016): Notice sent to correct address by registered post deemed served under Section 27 General Clauses Act."
+    ],
+    "practical_steps": [
+      "STEP 1: Obtain the Cheque Return Memo with reasons (e.g., 'Funds Insufficient', 'Account Closed') from the bank.",
+      "STEP 2: Issue a Formal Legal Demand Notice through an advocate within EXACTLY 30 DAYS from receiving the return memo.",
+      "STEP 3: The notice must demand payment of the exact cheque amount within 15 DAYS of receipt of notice.",
+      "STEP 4: If the drawer fails to make payment within 15 days, cause of action arises on the 16th day.",
+      "STEP 5: File a Criminal Complaint under Section 138 before the Judicial Magistrate / Metropolitan Magistrate within 30 DAYS from the expiry of the 15-day period.",
+      "STEP 6: Move an application under Section 143A seeking 20% interim compensation during the trial."
+    ],
+    "relevant_authorities": "Metropolitan Magistrate / Judicial Magistrate First Class (JMFC) having jurisdiction over the payee's bank branch.",
+    "risk_level": "Medium",
+    "keywords": [
+      "cheque bounce", "section 138", "dishonour of cheque", "bounced cheque", "insufficient funds", "stop payment", "legal notice 30 days", "ni act 138", "cheque return memo", "15 days notice", "interim compensation 143a"
+    ]
+  },
+  {
+    "id": "CONS-CPA-2019-PROTECTION",
+    "title": "Consumer Rights, Defective Products, Refund & Service Deficiency",
+    "category": "Consumer Protection",
+    "act": "Consumer Protection Act 2019",
+    "sections": "Section 2(7) (Consumer definition), Section 2(11) (Deficiency of service), Section 2(47) (Unfair trade practice), Section 35 (District Commission complaint), Section 82-87 (Product Liability)",
+    "summary": "Protects consumers against defective goods, deficient services, misleading advertisements, refusal of legitimate refund/replacement, and predatory terms by offline businesses and e-commerce platforms.",
+    "key_elements": [
+      "Purchase of goods or hiring of services for consideration (excluding commercial resale)",
+      "Existence of defect in goods or deficiency in services",
+      "Loss, damage, injury, harassment, or financial prejudice caused to the consumer",
+      "Pecuniary Jurisdiction: District Commission (up to ₹50 Lakhs), State Commission (₹50 Lakhs to ₹2 Crore), National Commission (above ₹2 Crore)"
+    ],
+    "penalties_remedies": "Order for refund of price paid, replacement of product, compensation for harassment/mental agony, punitive damages, and litigation costs. Failure to comply punishable with imprisonment up to 3 years and fine up to ₹1,00,000 under Section 72.",
+    "landmark_cases": [
+      "Lucknow Development Authority v. M.K. Gupta (1994) 1 SCC 243: Public statutory bodies and authorities are covered under consumer jurisdiction for deficiency.",
+      "Indian Medical Association v. V.P. Shantha (1995) 6 SCC 651: Medical services rendered for consideration fall under the purview of Consumer Protection Act.",
+      "Amazon Seller Services Pvt Ltd v. Amway India Enterprises (2020): E-commerce platforms are accountable for unfair trade practices and counterfeit listings on their marketplaces."
+    ],
+    "practical_steps": [
+      "Send a written grievance/email to the company's customer grievance officer with invoice, order ID, and photos of defect.",
+      "Call National Consumer Helpline at 1915 or register grievance on consumerhelpline.gov.in / INGRAM portal.",
+      "If unresolved within 15 days, send a formal Legal Notice demanding refund/replacement and compensation within 15 days.",
+      "File an online consumer complaint via e-Daakhil portal (edaakhil.nic.in) with no physical court visit required.",
+      "Attach purchase invoice, payment proof, warranty card, communications, and photos/expert report.",
+      "Limitation period: Complaint must be filed within 2 YEARS from the date cause of action arose."
+    ],
+    "relevant_authorities": "National Consumer Helpline (1915), District Consumer Disputes Redressal Commission, e-Daakhil Portal, Central Consumer Protection Authority (CCPA).",
+    "risk_level": "Low",
+    "keywords": [
+      "consumer protection", "defective product", "refund", "replacement", "amazon refund", "flipkart refund", "deficiency of service", "edaakhil", "consumer forum", "consumer court", "fake product", "misleading advertisement", "warranty claim", "1915 helpline"
+    ]
+  },
+  {
+    "id": "CRIM-PROC-FIR-ARREST-RIGHTS",
+    "title": "FIR Filing, Zero FIR, Police Refusal Remedies & Arrest Protections",
+    "category": "Criminal Procedure & Police Powers",
+    "act": "Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023 / Code of Criminal Procedure (CrPC) 1973",
+    "sections": "BNSS Section 173 [CrPC 154] (Information in cognizable cases), BNSS Section 175 [CrPC 156(3)] (Magistrate's power), BNSS Section 35 [CrPC 41/41A] (Arrest notice), BNSS Section 482 [CrPC 438] (Anticipatory Bail)",
+    "summary": "Mandates police registration of First Information Report (FIR) for cognizable offences, provides the right to file Zero FIR in any police station across India, establishes remedies when police refuse to file an FIR, and lays down strict safeguards against arbitrary arrest.",
+    "key_elements": [
+      "Cognizable offence: Police can arrest without warrant and must register FIR immediately",
+      "Non-cognizable offence: Police enter in Non-Cognizable Report (NCR) and cannot investigate without Magistrate order",
+      "Zero FIR: Can be lodged in ANY police station regardless of geographical jurisdiction",
+      "Right to free copy of FIR immediately upon signing"
+    ],
+    "penalties_remedies": "Refusal by police officer to register FIR in certain sexual offences is punishable under BNS 198 / IPC 166A with rigorous imprisonment up to 2 years.",
+    "landmark_cases": [
+      "Lalita Kumari v. Govt. of U.P. (2014) 2 SCC 1: Constitution Bench ruled registration of FIR is MANDATORY under Section 154 if information discloses a cognizable offence.",
+      "D.K. Basu v. State of West Bengal (1997) 1 SCC 416: Lays down 11 binding guidelines on arrest, including identification memo, right to inform relative, and medical checkup.",
+      "Arnesh Kumar v. State of Bihar (2014) 8 SCC 273: In offences punishable with up to 7 years imprisonment, arrest is NOT automatic; police must issue Notice of Appearance under Section 41A CrPC."
+    ],
+    "practical_steps": [
+      "Approach the local police station and submit a signed written complaint clearly stating date, time, location, accused details, and narrative.",
+      "Demand a stamped acknowledgement copy and an immediate free copy of the registered FIR.",
+      "ZERO FIR OPTION: If you are away from the crime scene, file a Zero FIR at any nearby station; they must register it and transfer it to the concerned station.",
+      "IF POLICE REFUSE FIR - STEP 1: Send the written complaint via Registered Post / Speed Post / Email to the Superintendent of Police (SP) or Deputy Commissioner of Police (DCP) under BNSS 173(4) / CrPC 154(3).",
+      "IF POLICE REFUSE FIR - STEP 2: If no action within 15 days, hire an advocate and file an application under BNSS Section 175(3) / CrPC Section 156(3) before the Judicial Magistrate seeking an order directing the police to lodge FIR and investigate.",
+      "ARREST RIGHTS: If summoned, insist on a written Section 41A notice. Accused has right to consult lawyer, inform a friend/family member, and undergo medical examination every 48 hours."
+    ],
+    "relevant_authorities": "Station House Officer (SHO), Superintendent of Police (SP) / DCP, Judicial Magistrate First Class (JMFC), High Court (Writ Petition under Article 226).",
+    "risk_level": "High",
+    "keywords": [
+      "fir", "zero fir", "police refused fir", "crpc 154", "bnss 173", "section 156 3", "arrest rights", "section 41a", "lalita kumari", "cognizable", "complaint to sp", "anticipatory bail", "police complaint", "thana"
+    ]
+  },
+  {
+    "id": "FAM-DV-PWDVA-CRUELTY",
+    "title": "Domestic Violence, Harassment & Cruelty Against Women",
+    "category": "Family & Matrimonial Law",
+    "act": "Protection of Women from Domestic Violence Act 2005 (PWDVA) & BNS/IPC",
+    "sections": "PWDVA Section 12 (Application to Magistrate), Section 18 (Protection orders), Section 19 (Residence orders), Section 20 (Monetary relief), BNS Section 85/86 [IPC Section 498A]",
+    "summary": "Protects women living in a domestic relationship against physical, sexual, verbal, emotional, and economic abuse. Grants immediate emergency protection orders, right to reside in shared household, and monetary maintenance.",
+    "key_elements": [
+      "Aggrieved person must be a woman who is or was in a domestic relationship living together in a shared household",
+      "Act of domestic violence includes physical harm, dowry harassment, verbal insults, denial of economic resources, or threat of injury",
+      "Right to reside in shared household irrespective of whether she has title or ownership"
+    ],
+    "penalties_remedies": "Breach of protection order under PWDVA is punishable with imprisonment up to 1 year and fine up to ₹20,000 (Cognizable and Non-Bailable). Cruelty under BNS 85 / IPC 498A punishable up to 3 years imprisonment and fine.",
+    "landmark_cases": [
+      "Satish Chander Ahuja v. Sneha Ahuja (2020) 10 SCC 788: Supreme Court held shared household includes property where woman lived in domestic relationship, even if owned by in-laws.",
+      "Rajnesh v. Neha (2021) 2 SCC 324: Landmark uniform guidelines for interim maintenance and mandatory disclosure of assets and liabilities affidavits.",
+      "Arnesh Kumar v. State of Bihar (2014): Check on automatic arrests under Section 498A without preliminary satisfaction of criteria under Section 41 CrPC."
+    ],
+    "practical_steps": [
+      "IMMEDIATE EMERGENCY: Call Women Helpline 1091 or 181, or National Emergency 112.",
+      "Get a Medical Examination Report (MLC) conducted at a government hospital immediately if physical violence occurred.",
+      "Approach the local Protection Officer (appointed by District Magistrate) to prepare a Domestic Incident Report (DIR).",
+      "File an application under Section 12 of PWDVA before the Judicial Magistrate seeking: Protection Order (preventing abuser from entering or contacting), Residence Order (right to stay in house), and Interim Maintenance.",
+      "If there is dowry demand or severe cruelty, lodge an FIR under BNS Section 85 / IPC Section 498A at the Women Police Station.",
+      "Contact National Commission for Women (NCW) helpline (7827170170) or state legal services authority for free legal aid."
+    ],
+    "relevant_authorities": "Protection Officer, Judicial Magistrate Court, Women Police Station, National Commission for Women (NCW), Women Helpline 181/1091.",
+    "risk_level": "Critical",
+    "keywords": [
+      "domestic violence", "pwdva", "cruelty", "498a", "bns 85", "dowry harassment", "wife beaten", "in laws harassment", "residence order", "protection order", "maintenance", "women helpline 181", "1091", "divorce cruelty"
+    ]
+  },
+  {
+    "id": "CYBER-PRIVACY-STALKING-EXTORTION",
+    "title": "Online Blackmail, Private Photo Leak, Sextortion & Stalking",
+    "category": "Cyber Law & Digital Crimes",
+    "act": "Information Technology Act 2000 & BNS/IPC",
+    "sections": "IT Act Section 66E (Violation of privacy), Section 67 & 67A (Publishing sexually explicit material), BNS Section 78 [IPC 354D] (Stalking), BNS Section 308 [IPC 384] (Extortion)",
+    "summary": "Covers cyber blackmail, non-consensual sharing of intimate images (revenge porn), recording private acts without consent, sextortion via video calls, deepfakes, cyber stalking, and online harassment.",
+    "key_elements": [
+      "Capturing, publishing, or transmitting images of private area without consent",
+      "Publishing or transmitting obscene or sexually explicit material in electronic form",
+      "Extorting money or favors under threat of circulating personal photos/videos",
+      "Monitoring use of internet/email or repeatedly messaging/harassing online"
+    ],
+    "penalties_remedies": "IT Act 66E: Up to 3 years imprisonment and ₹2 Lakhs fine. IT Act 67A: Up to 5 years imprisonment and ₹10 Lakhs fine on first conviction. Non-Bailable and Cognizable. BNS 78/IPC 354D: Up to 3 years imprisonment.",
+    "landmark_cases": [
+      "K.S. Puttaswamy v. Union of India (2017) 10 SCC 1: Supreme Court declared Right to Privacy as a Fundamental Right under Article 21 of the Constitution.",
+      "Praveen Arjunan v. State (Kerala HC 2021): Recording or blackmailing using morphed or private photographs attracts stringent non-bailable cyber provisions.",
+      "Rules Under IT Intermediary Guidelines 2021: Social media platforms (Meta, Google, X, Telegram) must remove non-consensual intimate imagery within 24 HOURS of receiving complaint."
+    ],
+    "practical_steps": [
+      "DO NOT PAY ANY RANSOM / MONEY: Paying does not stop extortion; extortionists will demand more money.",
+      "Take complete screenshots of chats, blackmail messages, phone numbers, profiles, and payment links before blocking.",
+      "Submit takedown grievance to the platform grievance officer (Instagram, WhatsApp, X, Facebook) - they are legally obligated under IT Rules 2021 Rule 3(2)(b) to remove non-consensual explicit content within 24 hours.",
+      "Use StopNCII.org (Stop Non-Consensual Intimate Imagery) to create digital hashes of photos so platforms can block uploads proactively.",
+      "File an immediate complaint on https://cybercrime.gov.in under 'Report Crime Related to Women/Child' (Option to report anonymously available).",
+      "Dial 1930 or visit nearest Cyber Crime Police Station to lodge FIR under IT Act 66E, 67A and BNS 308/78."
+    ],
+    "relevant_authorities": "National Cyber Crime Reporting Portal (cybercrime.gov.in), Platform Grievance Officers, Cyber Cell Police Station, NCW.",
+    "risk_level": "Critical",
+    "keywords": [
+      "blackmail", "nude leak", "private photos", "sextortion", "cyber stalking", "it act 66e", "it act 67a", "revenge porn", "morphed photo", "video call scam", "extortion", "online threat", "deepfake"
+    ]
+  },
+  {
+    "id": "PROP-RENT-TENANT-LANDLORD",
+    "title": "Tenant Rights, Security Deposit Withholding, Illegal Eviction & Leases",
+    "category": "Property & Tenancy Law",
+    "act": "Model Tenancy Act 2021, Transfer of Property Act 1882 & State Rent Control Acts",
+    "sections": "Transfer of Property Act Section 106 (Notice to quit), Section 108 (Rights and liabilities of lessor and lessee), Model Tenancy Act Sections 11, 21, 22",
+    "summary": "Protects tenants and landlords in rental disputes, wrongful withholding of security deposit, illegal disconnection of electricity/water, arbitrary rent escalation, and eviction without due process of law.",
+    "key_elements": [
+      "Valid tenancy agreement (registered or notarized lease deed)",
+      "Landlord cannot cut off essential supplies (water, electricity, lift) under any circumstance",
+      "Landlord must give statutory notice (usually 15 to 30 days) before termination of lease",
+      "Security deposit must be refunded upon handover minus documented structural damage"
+    ],
+    "penalties_remedies": "Cutting essential supplies attracts penalty before Rent Tribunal/Civil Court. Summary recovery of withheld deposit with interest (Order 37 CPC). Illegal eviction can be restrained via temporary injunction (Order 39 CPC).",
+    "landmark_cases": [
+      "Suraj Lamp & Industries Pvt Ltd v. State of Haryana (2012) 1 SCC 656: Immovable property can only be legally transferred/leased through registered instruments.",
+      "K.V. Krishnamurthy v. State (Karnataka HC): Landlords disconnecting electricity or water to forcefully evict tenants commit cognizable offence punishable under law.",
+      "Suresh Kumar v. Bhupal Singh: Security deposit held in trust by landlord cannot be deducted arbitrarily without verifiable bills/evidence of damage."
+    ],
+    "practical_steps": [
+      "Inspect the signed Lease / Rental Agreement clauses on notice period, lock-in period, and security deposit return timeline.",
+      "Take clear handover videos and photos of the apartment on moving day to prove no damage was caused.",
+      "Send a formal written email and demand letter citing agreement clause and bank details for refund.",
+      "IF DEPOSIT NOT RETURNED: Send a Legal Notice through an advocate giving 15 days to refund deposit with 18% p.a. interest.",
+      "If landlord refuses, file a Summary Civil Suit under Order 37 CPC in the Civil Court for quick recovery of debt, or approach the Rent Authority / Small Causes Court.",
+      "IF LANDLORD DISCONNECTS WATER/ELECTRICITY: File a police complaint for criminal intimidation/mischief and move an urgent injunction application before the Rent Controller / Civil Court."
+    ],
+    "relevant_authorities": "Rent Authority / Rent Court, Civil Judge / Small Causes Court, Local Police Station (for forceful eviction or utility disconnection).",
+    "risk_level": "Medium",
+    "keywords": [
+      "tenant", "landlord", "security deposit", "deposit not returned", "illegal eviction", "rent agreement", "lease dispute", "electricity disconnected", "water disconnected", "flat rent", "deposit refund", "model tenancy act"
+    ]
+  },
+  {
+    "id": "LABOR-TERMINATION-SALARY-POSH",
+    "title": "Wrongful Termination, Unpaid Salary & Workplace Harassment (POSH)",
+    "category": "Employment & Labor Law",
+    "act": "Industrial Disputes Act 1947, Payment of Wages Act 1936, POSH Act 2013, Shops and Establishments Act",
+    "sections": "POSH Act 2013 Sections 4, 9, 11 (ICC and complaint mechanism), Payment of Wages Act Section 15, Industrial Disputes Act Section 25F (Retrenchment compensation)",
+    "summary": "Protects employees against arbitrary firing without notice or severance pay, illegal withholding of earned salary or incentives, refusal of relieving letter/experience certificate, and workplace sexual harassment.",
+    "key_elements": [
+      "Valid employment contract / appointment letter",
+      "Employer must serve contractual notice period or pay salary in lieu of notice",
+      "Mandatory retrenchment compensation (15 days average pay for every completed year of service) under Section 25F for workmen",
+      "POSH: Mandatory Internal Complaints Committee (ICC) in every establishment with 10+ employees"
+    ],
+    "penalties_remedies": "Labor Court / Industrial Tribunal can order reinstatement with full back wages and interest. Employer failing to constitute ICC faces fine up to ₹50,000 and cancellation of business license. Withholding salary punishable under Payment of Wages Act.",
+    "landmark_cases": [
+      "Aurelieano Fernandes v. State of Goa (2023) SCC OnLine SC 621: Supreme Court issued strict nationwide directions to enforce POSH Act compliance in all private and public establishments.",
+      "Workmen of Firestone Tyre & Rubber Co. v. Management (1973): Labor courts possess broad powers to interfere with arbitrary termination and grant full back wages.",
+      "M. Venugopal v. LIC of India (1994): Discharge of probationer or contract worker must adhere to principles of natural justice if stigmatic."
+    ],
+    "practical_steps": [
+      "FOR UNPAID SALARY / WRONGFUL TERMINATION: Preserve employment contract, pay slips, resignation/termination emails, and timesheet logs.",
+      "Send a formal demand email to HR and Finance requesting salary clearance and Full & Final (F&F) settlement within 7 days.",
+      "If ignored, issue a Legal Notice through an advocate demanding unpaid salary, damages, and relieving documents within 15 days.",
+      "File a complaint before the State Labor Commissioner / Conciliation Officer under the Shops & Establishments Act or Payment of Wages Act.",
+      "File an online grievance on Samadhan portal (samadhan.labour.gov.in).",
+      "FOR WORKPLACE HARASSMENT (POSH): Submit a written complaint to the Internal Complaints Committee (ICC) within 3 months of the incident; ICC must conclude inquiry within 90 days."
+    ],
+    "relevant_authorities": "Labor Commissioner / Conciliation Officer, Industrial Tribunal / Labor Court, Internal Complaints Committee (ICC), Local Complaints Committee (LCC), Ministry of Labor.",
+    "risk_level": "Medium",
+    "keywords": [
+      "unpaid salary", "wrongful termination", "fired without notice", "severance pay", "posh act", "workplace harassment", "relieving letter withheld", "full and final settlement", "labor court", "labor commissioner", "employment dispute", "salary delayed"
+    ]
+  },
+  {
+    "id": "MV-ACCIDENT-HIT-AND-RUN-MACT",
+    "title": "Road Accidents, Hit-and-Run, Third-Party Claims & Good Samaritan Law",
+    "category": "Motor Vehicles & Accident Compensation",
+    "act": "Motor Vehicles Amendment Act 2019 & BNS/IPC",
+    "sections": "Motor Vehicles Act Section 166 (Compensation application), Section 164 (No-fault liability), Section 134A (Good Samaritan protection), Section 161 (Hit and run scheme), BNS Section 281 [IPC 279], BNS Section 106 [IPC 304A]",
+    "summary": "Governs legal claims arising from vehicular accidents, pedestrian injuries, fatal crashes, compensation claims before the Motor Accident Claims Tribunal (MACT), and legal immunity for citizens helping accident victims.",
+    "key_elements": [
+      "Accident caused by rash or negligent driving of a motor vehicle",
+      "Third-party insurance is legally mandatory for all motor vehicles on Indian roads",
+      "Hit and Run Compensation: ₹2 Lakhs in case of death, ₹50,000 in case of grievous injury under 2022 Central Scheme",
+      "Good Samaritan: Anyone who assists an accident victim shall not be liable for any civil or criminal action and cannot be compelled to disclose identity"
+    ],
+    "penalties_remedies": "MACT awards full financial compensation based on victim's age, income, dependents, medical expenses, and loss of future prospects. Rash driving punishable with up to 6 months imprisonment under BNS 281; causing death by negligence punishable up to 5-10 years under BNS 106.",
+    "landmark_cases": [
+      "Sarla Verma v. Delhi Transport Corporation (2009) 6 SCC 121: Established standardized multiplier formula for assessing MACT accident compensation.",
+      "National Insurance Co. Ltd. v. Pranay Sethi (2017) 16 SCC 680: Constitution Bench settled guidelines on future prospects and conventional heads in fatal accident claims.",
+      "Save Life Foundation v. Union of India (2016) 7 SCC 1: Supreme Court incorporated Good Samaritan guidelines into law to protect bystanders from police harassment."
+    ],
+    "practical_steps": [
+      "IMMEDIATE AT THE SCENE: Call 112 (Emergency) / 108 (Ambulance). Note the vehicle registration number, make, model, and take photos of vehicles and accident spot.",
+      "Undergo medical examination and ensure a Medico-Legal Case (MLC) is prepared by hospital doctors.",
+      "File an FIR at the police station having territorial jurisdiction under BNS Section 281 / 106 / 125.",
+      "Obtain copies of FIR, Site Panchnama, Mechanical Inspection Report, and Final Police Report (Chargesheet).",
+      "File a Claim Petition under Section 166 before the Motor Accident Claims Tribunal (MACT) in the district where the accident occurred or where claimant resides.",
+      "Attach medical bills, hospital discharge summaries, proof of income/salary slips, disability certificate, and driver/vehicle insurance details."
+    ],
+    "relevant_authorities": "Motor Accident Claims Tribunal (MACT), District Court, Traffic Police, General Insurance Companies, District Magistrate (for Hit & Run Solatium).",
+    "risk_level": "High",
+    "keywords": [
+      "road accident", "car hit", "bike accident", "hit and run", "mact claim", "accident compensation", "third party insurance", "motor vehicles act", "good samaritan", "bns 281", "rash driving", "ipc 279", "304a"
+    ]
+  },
+  {
+    "id": "CONST-RTI-RIGHT-TO-INFORMATION",
+    "title": "Right to Information (RTI) Process, Appeals & Time Limits",
+    "category": "Constitutional & Civil Rights",
+    "act": "Right to Information Act 2005",
+    "sections": "Section 6 (Request for information), Section 7 (Disposal of request), Section 19 (First & Second Appeals), Section 20 (Penalties on Public Information Officers)",
+    "summary": "Empowers Indian citizens to secure access to information under the control of public authorities, promoting transparency and accountability in working of every public authority, government department, university, or municipal body.",
+    "key_elements": [
+      "Citizen can file application in writing or online (rtionline.gov.in) with ₹10 fee (free for BPL citizens)",
+      "Standard Response Timeline: 30 DAYS from date of receipt",
+      "Life or Liberty Timeline: Information concerning life or liberty of a person MUST be provided within 48 HOURS",
+      "Public authority cannot ask for reason or motive behind seeking information"
+    ],
+    "penalties_remedies": "Information Commission can impose penalty of ₹250 per day up to maximum ₹25,000 on PIO for delay or refusal, and recommend disciplinary action.",
+    "landmark_cases": [
+      "CBSE v. Aditya Bandopadhyay (2011) 8 SCC 497: Clarified scope of fiduciary relationship and rights of examinees to inspect evaluated answer books under RTI.",
+      "Subhash Chandra Agarwal v. Supreme Court of India (2020) 5 SCC 481: Constitution Bench held Office of Chief Justice of India is a public authority under RTI.",
+      "Reserve Bank of India v. Jayantilal N. Mistry (2016) 3 SCC 525: RBI is duty-bound under RTI to disclose inspection reports and list of willful defaulters."
+    ],
+    "practical_steps": [
+      "Identify the specific Public Authority (e.g., Municipal Corporation, Ministry, Police, Public University).",
+      "Draft clear, numbered questions seeking specific records, notifications, orders, or files (avoid seeking opinions or hypothetical legal advice).",
+      "File online at https://rtionline.gov.in (for Central ministries) or state RTI portals with ₹10 fee payment.",
+      "Wait for 30 days. If no reply or unsatisfactory reply received:",
+      "FIRST APPEAL: File First Appeal under Section 19(1) before the designated First Appellate Authority (FAA) within 30 DAYS.",
+      "SECOND APPEAL: If FAA fails to decide within 30-45 days or upholds rejection, file Second Appeal under Section 19(3) before Central Information Commission (CIC) or State Information Commission (SIC) within 90 DAYS."
+    ],
+    "relevant_authorities": "Central Public Information Officer (CPIO), First Appellate Authority (FAA), Central Information Commission (CIC), State Information Commission (SIC).",
+    "risk_level": "Low",
+    "keywords": [
+      "rti", "right to information", "rti online", "file rti", "public information officer", "first appeal", "second appeal", "cic", "48 hours life liberty", "government record", "exam marks rti"
+    ]
+  },
+  {
+    "id": "FAM-DIVORCE-MUTUAL-MAINTENANCE",
+    "title": "Divorce Procedure, Mutual Consent 13B & Maintenance Rights",
+    "category": "Family & Matrimonial Law",
+    "act": "Hindu Marriage Act 1955, Special Marriage Act 1954 & CrPC/BNSS",
+    "sections": "HMA Section 13B (Mutual consent divorce), HMA Section 13 (Contested grounds), HMA Section 24/25 (Maintenance), BNSS Section 144 [CrPC 125] (Maintenance of wives, children, parents)",
+    "summary": "Governs dissolution of marriage by mutual consent or contested grounds (cruelty, desertion, adultery), child custody determinations, and right to permanent or interim maintenance.",
+    "key_elements": [
+      "Mutual Consent Divorce (Section 13B): Spouses living separately for 1 year or more, unable to live together, mutually agreed to dissolve marriage",
+      "First Motion followed by 6 months cooling-off period (which can be waived by Family Court)",
+      "Second Motion filed within 18 months of First Motion",
+      "Maintenance: Wife unable to maintain herself is entitled to maintenance commensurate with husband's standard of living"
+    ],
+    "penalties_remedies": "Decree of divorce dissolving marriage. Recovery of unpaid maintenance through distress warrant or civil imprisonment under CrPC 125(3).",
+    "landmark_cases": [
+      "Amardeep Singh v. Harveen Kaur (2017) 8 SCC 746: 6-month cooling-off statutory period under Section 13B(2) is directory and can be waived by Family Court if mediation failed.",
+      "Shilpa Sailesh v. Varun Sreenivasan (2023) 4 SCC OnLine SC 544: Supreme Court can grant divorce directly on ground of irretrievable breakdown under Article 142.",
+      "Rajnesh v. Neha (2021) 2 SCC 324: Mandatory filing of standardized Affidavit of Assets and Liabilities by both parties to determine fair maintenance."
+    ],
+    "practical_steps": [
+      "FOR MUTUAL CONSENT DIVORCE: Execute a comprehensive Memorandum of Understanding (MOU) settling all terms (permanent alimony, return of Stridhan, child custody, visitation).",
+      "File joint petition under Section 13B(1) before the Principal Judge, Family Court.",
+      "Record statement of both parties (First Motion). Move application for waiver of 6-month cooling period if separation is prolonged.",
+      "Appear for Second Motion under Section 13B(2) to record final statement and obtain formal Divorce Decree.",
+      "FOR MAINTENANCE (CONTESTED): File application under CrPC Section 125 / BNSS 144 before Family Court.",
+      "File detailed Income and Assets Affidavit enclosing bank statements, ITR returns for last 3 years, and proof of husband's income/lifestyle."
+    ],
+    "relevant_authorities": "Family Court / Principal District Judge, Mediation and Conciliation Centre, High Court.",
+    "risk_level": "Medium",
+    "keywords": [
+      "divorce", "mutual consent divorce", "13b", "alimony", "stridhan", "child custody", "maintenance", "crpc 125", "cooling off waiver", "contested divorce", "family court", "separation"
+    ]
+  },
+  {
+    "id": "CRIM-BAIL-PROCEDURE-TYPES",
+    "title": "Bail Law: Regular Bail, Anticipatory Bail & Default Bail",
+    "category": "Criminal Procedure & Personal Liberty",
+    "act": "Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023 / Code of Criminal Procedure (CrPC) 1973",
+    "sections": "BNSS Section 478 [CrPC 436] (Bailable offences), BNSS Section 480 [CrPC 437] (Magistrate bail), BNSS Section 482 [CrPC 438] (Anticipatory bail), BNSS Section 483 [CrPC 439] (Sessions/High Court bail), BNSS Section 187 [CrPC 167(2)] (Default bail)",
+    "summary": "Ensures constitutional right to personal liberty under Article 21. Governs conditions and procedure for obtaining anticipatory bail before arrest, regular bail post-arrest, and mandatory statutory default bail.",
+    "key_elements": [
+      "Bailable Offence: Bail is an ABSOLUTE RIGHT; police or court must grant bail upon furnishing surety",
+      "Non-Bailable Offence: Bail is discretionary, decided on gravity of offence, flight risk, tampering risk",
+      "Anticipatory Bail: Applied before arrest in Sessions Court or High Court when apprehending arrest in non-bailable case",
+      "Default / Statutory Bail: Indefeasible right under CrPC 167(2) if investigation chargesheet is not filed within 60 days (offences < 10 yrs) or 90 days (offences >= 10 yrs/death/life)"
+    ],
+    "penalties_remedies": "Release of accused from judicial/police custody upon furnishing personal bond and solvent sureties.",
+    "landmark_cases": [
+      "State of Rajasthan v. Balchand (1977) 4 SCC 308: Justice V.R. Krishna Iyer laid down the timeless doctrine: 'Bail is the rule, jail is the exception.'",
+      "Sushila Aggarwal v. State (NCT of Delhi) (2020) 5 SCC 1: Anticipatory bail should not be routinely limited to a fixed time period and can continue till trial conclusion.",
+      "Satender Kumar Antil v. CBI (2022) 10 SCC 51: Guidelines classifying offences into A, B, C, D categories to eliminate unnecessary arrests and expedite bail hearings.",
+      "Bikramjit Singh v. State of Punjab (2020) 10 SCC 616: Right to default bail under Section 167(2) is a fundamental right part of Article 21."
+    ],
+    "practical_steps": [
+      "BAILABLE OFFENCE: Inform police officer you are willing to furnish bail bond and local surety; police must release immediately without court visit.",
+      "ANTICIPATORY BAIL (Fear of arrest): Immediately approach Advocate and file petition under BNSS Section 482 / CrPC 438 before Sessions Court or High Court with clean antecedents proof.",
+      "REGULAR BAIL (After arrest): Move bail application under BNSS 480/483 before the Judicial Magistrate or Sessions Court arguing lack of flight risk, cooperation with probe, and no tampering risk.",
+      "DEFAULT BAIL (Investigation delayed): Track the 60/90 days deadline from first remand. If chargesheet not filed by day 60/90, file application under CrPC 167(2) before chargesheet is presented; court MUST release accused.",
+      "Prepare identity proof, Aadhaar card, revenue/property tax receipt of sureties, and solvency certificate."
+    ],
+    "relevant_authorities": "Sessions Court, High Court, Judicial Magistrate First Class, Supreme Court of India.",
+    "risk_level": "Critical",
+    "keywords": [
+      "bail", "anticipatory bail", "regular bail", "default bail", "crpc 438", "crpc 439", "crpc 167 2", "bnss 482", "jail release", "surety bond", "arrest fear", "satender kumar antil", "bailable offence"
+    ]
+  },
+  {
+    "id": "CRIM-DEFAMATION-ONLINE-REPUTATION",
+    "title": "Defamation: Criminal Defamation & Civil Damages for Reputation Loss",
+    "category": "Civil & Criminal Law",
+    "act": "Bharatiya Nyaya Sanhita (BNS) 2023 / Indian Penal Code (IPC) 1860 & Law of Torts",
+    "sections": "BNS Section 356 [IPC Section 499 & 500] (Defamation), Code of Civil Procedure (Civil suit for damages)",
+    "summary": "Protects individuals, corporations, and professionals against false, malicious, or derogatory statements made orally, in writing, or via digital media (social media posts, YouTube videos, blogs) that lower their reputation in the estimation of the public.",
+    "key_elements": [
+      "Making or publishing any imputation concerning any person",
+      "Intending to harm, or knowing or having reason to believe that such imputation will harm reputation",
+      "Exceptions: Substantially true statement made for public good, expression in good faith regarding conduct of public servants or merits of public performance"
+    ],
+    "penalties_remedies": "Criminal: Simple imprisonment up to 2 years, or fine, or both (under BNS 356, community service can also be awarded). Civil: Monetary damages for harm caused to personal or professional reputation, and permanent injunction.",
+    "landmark_cases": [
+      "Subramanian Swamy v. Union of India (2016) 7 SCC 221: Supreme Court upheld constitutional validity of criminal defamation under Sections 499 and 500 IPC as reasonable restriction on free speech.",
+      "Tata Sons Ltd v. Greenpeace International (Delhi HC 2011): High Court held interim injunction against alleged defamation should be granted sparingly when fair comment or public interest is pleaded."
+    ],
+    "practical_steps": [
+      "Preserve irrefutable evidence: Take certified screenshots, screen recordings, URL links, timestamps, and comments on social media posts.",
+      "Issue a formal Cease and Desist Legal Notice demanding unconditional written apology, immediate retraction, and takedown within 48-72 hours.",
+      "Send takedown grievance to the digital platform intermediary (Google, Meta, X) attaching evidence.",
+      "CRIMINAL ACTION: File a private criminal complaint under BNS Section 356 / IPC Section 500 before the Metropolitan Magistrate or Judicial Magistrate.",
+      "CIVIL ACTION: File a Civil Suit for Injunction and Damages in the District Court or High Court claiming monetary compensation for reputational damage."
+    ],
+    "relevant_authorities": "Metropolitan Magistrate / Judicial Magistrate Court, Civil District Court, Social Media Platform Grievance Officers.",
+    "risk_level": "Medium",
+    "keywords": [
+      "defamation", "criminal defamation", "bns 356", "ipc 499", "ipc 500", "social media defamation", "slander", "libel", "reputation loss", "false accusation", "cease and desist notice", "apology letter"
+    ]
+  },
+  {
+    "id": "CRIM-EXTORTION-BLACKMAIL-LOAN-APP",
+    "title": "Extortion, Loan App Harassment & Criminal Intimidation",
+    "category": "Criminal Law & Financial Cybercrimes",
+    "act": "Bharatiya Nyaya Sanhita (BNS) 2023 / Indian Penal Code (IPC) 1860 & IT Act",
+    "sections": "BNS Section 308 [IPC Section 383, 384] (Extortion), BNS Section 351 [IPC Section 503, 506] (Criminal Intimidation), IT Act Section 66C/66D",
+    "summary": "Protects victims from predatory digital lending apps, recovery agent harassment, morphed photo sharing with contacts, threatening phone calls, blackmail for money, and criminal extortion.",
+    "key_elements": [
+      "Intentionally putting any person in fear of injury to that person or to any other",
+      "Dishonestly inducing the person so put in fear to deliver any property, money, or valuable security",
+      "Predatory illegal instant loan apps stealing phone contacts and photos to blackmail victims"
+    ],
+    "penalties_remedies": "Imprisonment up to 3 years and fine under BNS 308 / IPC 384. Cognizable, Non-Bailable. Criminal intimidation with threat to cause death/reputation harm punishable up to 7 years.",
+    "landmark_cases": [
+      "In Re: Harassment by Digital Lending Apps (Suo Motu High Courts 2022): Strict directives against recovery agents using unauthorized methods or accessing phone contact lists.",
+      "Reserve Bank of India Regulatory Framework for Digital Lending (2022): Lenders cannot access mobile storage, media, or contact lists; all loans must be disbursed directly from bank accounts of regulated entities."
+    ],
+    "practical_steps": [
+      "DO NOT PAY EXTORTION DEMANDS: Scammers continue demanding money even after payment is made.",
+      "Inform family, friends, and colleagues immediately that your phone has been compromised by an illegal scam app and to ignore any morphed messages.",
+      "Uninstall the fraudulent app, revoke all phone permissions, and change passwords.",
+      "Save screenshots of threats, WhatsApp chats, morphed images, and calling numbers.",
+      "File an online complaint at https://cybercrime.gov.in and dial 1930.",
+      "Register a complaint on RBI Sachet portal (sachet.rbi.org.in) against unauthorized lending entities.",
+      "File an FIR at the nearest Police Station or Cyber Crime Unit under BNS 308, 351 and IT Act 66C/66E."
+    ],
+    "relevant_authorities": "National Cybercrime Portal 1930, RBI Sachet Portal, Local Police Station, State Cyber Crime Unit.",
+    "risk_level": "Critical",
+    "keywords": [
+      "loan app scam", "recovery agent harassment", "extortion", "blackmail", "morphed photo contacts", "bns 308", "ipc 384", "criminal intimidation", "fake loan app", "chinese loan app", "sachet rbi"
+    ]
+  },
+  {
+    "id": "CORP-CONTRACT-BREACH-DAMAGES",
+    "title": "Breach of Contract, Non-Payment & Specific Performance",
+    "category": "Corporate & Commercial Law",
+    "act": "Indian Contract Act 1872 & Specific Relief Act 1963",
+    "sections": "Contract Act Section 73 (Compensation for loss or damage caused by breach), Section 74 (Liquidated damages), Specific Relief Act Section 10 & 20",
+    "summary": "Provides legal remedies when a contracting party fails to perform contractual obligations, refuses payment for goods/services delivered, or unilaterally terminates a valid agreement.",
+    "key_elements": [
+      "Existence of a valid, enforceable contract with offer, acceptance, and consideration",
+      "Breach of term or condition by the opposing party without valid legal excuse (e.g. force majeure)",
+      "Actual financial loss, direct damages, or detriment suffered due to the breach"
+    ],
+    "penalties_remedies": "Court order for monetary damages, payment of principal debt with interest, mandatory injunction, or specific performance directing completion of the agreed act.",
+    "landmark_cases": [
+      "Hadley v. Baxendale (1854): Fundamental doctrine of remoteness of damages codified in Section 73.",
+      "ONGC Ltd. v. Saw Pipes Ltd. (2003) 5 SCC 705: Liquidated damages stipulated as genuine pre-estimate of loss can be awarded without proving actual loss.",
+      "Kailash Nath Associates v. DDA (2015) 4 SCC 136: Forfeiture of earnest money or damages can only be claimed if reasonable and loss is established."
+    ],
+    "practical_steps": [
+      "Review the executed agreement, termination clause, cure period, dispute resolution clause, and governing law.",
+      "Collate all purchase orders (PO), delivery chalans, email sign-offs, invoices, and payment trail.",
+      "Issue a formal Notice of Default / Breach giving the contractual cure period (e.g. 15 or 30 days) to rectify.",
+      "If unrectified, issue a formal Legal Demand Notice claiming outstanding dues, interest (e.g. 18% p.a.), and damages.",
+      "COMMERCIAL DISPUTE FILING: Under Section 12A of the Commercial Courts Act 2015, exhaust Pre-Institution Mediation before filing suit (unless urgent interim relief sought).",
+      "Invoke Arbitration clause under Section 21 of Arbitration & Conciliation Act 1996 if arbitration agreement exists."
+    ],
+    "relevant_authorities": "Commercial Court / District Civil Court, Arbitration Tribunal, Pre-Institution Mediation Authority (DLSA).",
+    "risk_level": "Medium",
+    "keywords": [
+      "breach of contract", "unpaid invoice", "contract dispute", "commercial court", "damages", "arbitration", "section 73", "non payment", "vendor payment delay", "specific performance", "legal notice for money"
+    ]
+  },
+  {
+    "id": "CONST-NEW-CRIMINAL-LAWS-MAPPING",
+    "title": "BNS, BNSS & BSA: New Indian Criminal Laws 2024 Cross-Reference",
+    "category": "Criminal Law & Procedural Framework",
+    "act": "Bharatiya Nyaya Sanhita (BNS) 2023, Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023, Bharatiya Sakshya Adhiniyam (BSA) 2023",
+    "sections": "Comprehensive statutory mapping from IPC 1860, CrPC 1973, and Indian Evidence Act 1872",
+    "summary": "Essential reference mapping the new criminal codes effective in India from July 1, 2024, replacing IPC, CrPC, and Evidence Act. Covers new provisions on electronic evidence, zero FIR, preliminary enquiry, community service, and reorganized section numbering.",
+    "key_elements": [
+      "IPC replaced by Bharatiya Nyaya Sanhita (BNS) 2023",
+      "CrPC replaced by Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023",
+      "Indian Evidence Act replaced by Bharatiya Sakshya Adhiniyam (BSA) 2023",
+      "Offences committed on or after July 1, 2024 are registered under BNS; offences before July 1, 2024 continue under IPC/CrPC"
+    ],
+    "penalties_remedies": "Modernized sentencing including Community Service for petty offences, electronic summons via WhatsApp/SMS, and videography of crime scenes.",
+    "landmark_cases": [
+      "Supreme Court & High Court Circulars (2024): FIRs for post-July 1, 2024 incidents must cite BNS sections, while pending proceedings under IPC/CrPC remain saved under General Clauses Act Section 6."
+    ],
+    "practical_steps": [
+      "Check the date of incident: If before July 1, 2024, IPC/CrPC applies. If on or after July 1, 2024, BNS/BNSS applies.",
+      "KEY SECTION EQUIVALENTS:",
+      "- Cheating: IPC 420 -> BNS Section 318(4)",
+      "- Murder: IPC 302 -> BNS Section 103",
+      "- Attempt to Murder: IPC 307 -> BNS Section 109",
+      "- Theft: IPC 378/379 -> BNS Section 303",
+      "- Rape: IPC 375/376 -> BNS Section 63/64",
+      "- Outraging Modesty of Woman: IPC 354 -> BNS Section 74",
+      "- Stalking: IPC 354D -> BNS Section 78",
+      "- Cruelty by Husband/Relatives: IPC 498A -> BNS Section 85",
+      "- Defamation: IPC 499/500 -> BNS Section 356",
+      "- Extortion: IPC 383/384 -> BNS Section 308",
+      "- Rash Driving: IPC 279 -> BNS Section 281",
+      "- Death by Negligence: IPC 304A -> BNS Section 106",
+      "- FIR Registration: CrPC 154 -> BNSS Section 173",
+      "- Magistrate Investigation Order: CrPC 156(3) -> BNSS Section 175(3)",
+      "- Notice of Appearance before Arrest: CrPC 41A -> BNSS Section 35(3)",
+      "- Anticipatory Bail: CrPC 438 -> BNSS Section 482",
+      "- Regular Bail: CrPC 439 -> BNSS Section 483"
+    ],
+    "relevant_authorities": "All Indian Police Stations, Judicial Magistrate Courts, High Courts, Supreme Court.",
+    "risk_level": "Medium",
+    "keywords": [
+      "bns", "bnss", "bsa", "new criminal laws", "ipc to bns", "crpc to bnss", "section equivalent", "bharatiya nyaya sanhita", "bharatiya nagarik suraksha sanhita", "july 1 2024", "ipc 420 new section", "bns 318"
+    ]
+  }
+]

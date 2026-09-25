@@ -1,9 +1,27 @@
-IPC Section 420: Cheating and dishonestly inducing delivery of property.
+BNS Section 318(4) & IPC Section 420: Cheating and dishonestly inducing delivery of property or valuable security. Punishable with imprisonment up to 7 years and fine. Cognizable and non-bailable.
 
-Cybercrime complaint can be filed at https://cybercrime.gov.in
+IT Act Section 66D: Cheating by personation by using computer resource or communication device. Punishable with imprisonment up to 3 years and fine up to 1 lakh rupees. Applies to UPI fraud, OTP phishing, fake customer care, and banking scams.
 
-Consumer Protection Act gives right to refund or replacement.
+Cybercrime reporting: Financial cyber fraud should be reported immediately to National Cyber Helpline 1930 within the golden hour to freeze funds in fraudster accounts, and online at https://cybercrime.gov.in.
 
-FIR can be filed at nearest police station for cognizable offences.
+Negotiable Instruments Act Section 138: Dishonour of cheque for insufficiency of funds. Legal demand notice must be served within 30 days of receiving return memo, demanding payment within 15 days. If unpaid, criminal complaint must be filed within 30 days before Judicial Magistrate. Punishable with up to 2 years imprisonment or fine up to twice the cheque amount. Section 143A allows court to grant 20% interim compensation.
 
-Online fraud cases should be reported to bank and cybercrime cell immediately.
+Consumer Protection Act 2019: Protects against defective goods, deficiency of services, and unfair trade practices. Right to replacement, refund with interest, and compensation for mental agony. Complaints can be filed online via e-Daakhil (edaakhil.nic.in) or National Consumer Helpline 1915.
+
+BNSS Section 173 & CrPC Section 154: Registration of FIR for cognizable offences is mandatory. Zero FIR can be filed at ANY police station regardless of territorial jurisdiction. If police refuse to lodge FIR, complaint can be sent to Superintendent of Police (SP) under CrPC 154(3) / BNSS 173(4), or application filed before Magistrate under CrPC 156(3) / BNSS 175(3).
+
+BNSS Section 482 & CrPC Section 438: Anticipatory Bail can be sought from Sessions Court or High Court when apprehending arrest in a non-bailable accusation. Bail in bailable offences is an absolute legal right under Section 436 CrPC / BNSS 478.
+
+Protection of Women from Domestic Violence Act 2005 (PWDVA): Protection orders (Section 18), Residence orders (Section 19), Monetary relief and maintenance (Section 20). Emergency help available via Women Helpline 181/1091 and National Emergency 112. Cruelty by husband or relatives is punishable under BNS Section 85 / IPC Section 498A with imprisonment up to 3 years.
+
+IT Act Section 66E, 67 & 67A: Violation of privacy and publishing sexually explicit material online, revenge porn, non-consensual image sharing, and cyber stalking. Under IT Rules 2021, social media platforms must remove non-consensual explicit content within 24 hours of complaint.
+
+Transfer of Property Act Section 106 & Model Tenancy Act: Landlord cannot disconnect electricity or water supply to evict tenants. Notice to quit is mandatory. Security deposits held in trust must be refunded upon vacation; wrongful withholding can be recovered with interest through civil court summary suit under Order 37 CPC.
+
+POSH Act 2013 & Employment Law: Protection against workplace sexual harassment. Mandatory Internal Complaints Committee (ICC) in workplaces with 10+ employees. Unpaid wages and wrongful termination can be challenged before the Labor Commissioner under Payment of Wages Act and Industrial Disputes Act.
+
+Motor Vehicles Act Section 166: Compensation claims before Motor Accident Claims Tribunal (MACT) for road accident victims. Rash driving is punishable under BNS 281 / IPC 279, and causing death by negligence under BNS 106 / IPC 304A. Good Samaritan protection under Section 134A protects bystanders who help accident victims from civil or criminal liability.
+
+Right to Information (RTI) Act 2005: Citizens have the right to request public documents with 30-day response timeline (48 hours if related to life or personal liberty). First appeal to FAA within 30 days and second appeal to Central/State Information Commission within 90 days.
+
+BNS Section 356 & IPC Section 499/500: Criminal defamation for defamatory statements or online posts harming reputation. Punishable with imprisonment up to 2 years or fine or community service. Civil suits for damages can be filed simultaneously.

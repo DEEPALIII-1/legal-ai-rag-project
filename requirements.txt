@@ -1,3 +1,9 @@
 sentence-transformers
-numpy
+torch
+transformers
 scikit-learn
+numpy
+pandas
+streamlit
+pypdf
+requests
